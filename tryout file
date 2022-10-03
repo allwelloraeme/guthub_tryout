@@ -1,0 +1,7 @@
+git init
+git add README.md
+git add github_tryout.ipynb
+git commit -m "notebook first commit"
+git branch -M main
+git remote add origin https://github.com/allwelloraeme/github_tryout.git
+git push -u origin master
